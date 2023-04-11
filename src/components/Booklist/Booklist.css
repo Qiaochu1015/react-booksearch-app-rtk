@@ -1,0 +1,17 @@
+.booklist {
+    display: flex;
+    padding: 30px 30px;
+    width: 0 auto;
+    justify-content: center;
+}
+
+.books-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10vw 5vw;
+}
+
+img {
+    width: 150px;
+    height: 220px;
+}
